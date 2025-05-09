@@ -1,0 +1,501 @@
+﻿text,emotion_risk,emotion
+"Sometimes, loud classroom discussions make me freeze.",negative-high-risk,PTSD
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+"Honestly, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+I feel like I??m not contributing enough to the team.,negative-no-risk,sadness
+"Sometimes, the thought of failing is always on my mind lately.",negative-no-risk,anxiety
+Deadlines trigger flashbacks of earlier breakdowns. It??s just too much.,negative-high-risk,PTSD
+Deadlines trigger flashbacks of earlier breakdowns. It??s just too much.,negative-high-risk,PTSD
+"Sometimes, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+I??m stressed about presenting in front of the class. It??s just too much.,negative-no-risk,stress
+"Sometimes, i skip meals during stressful weeks without noticing.",negative-high-risk,eating disorder
+I finally understood how transformer models work! It??s just too much.,positive,joy
+"Honestly, i feel disconnected from my group lately.",negative-no-risk,sadness
+"Sometimes, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+Balancing coursework and job applications is exhausting.,negative-no-risk,stress
+My body shuts down in stressful academic settings. It??s just too much.,negative-high-risk,PTSD
+"Sometimes, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+"Sometimes, i finally understood how transformer models work!",positive,joy
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+I need a few drinks just to sleep after study marathons.,negative-high-risk,substance abuse
+I skip meals during stressful weeks without noticing. It??s just too much.,negative-high-risk,eating disorder
+"Honestly, when i feel stressed, i either starve or overeat.",negative-high-risk,eating disorder
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Honestly, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+"Honestly, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+I skip meals during stressful weeks without noticing.,negative-high-risk,eating disorder
+"Sometimes, when i feel stressed, i either starve or overeat.",negative-high-risk,eating disorder
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+"Honestly, the fine-tuning part of the project makes me panic.",negative-no-risk,anxiety
+"Sometimes, sometimes i cut just to release the stress.",negative-high-risk,self-harm
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+The pressure makes me want to do harmful things to myself. It??s just too much.,negative-high-risk,self-harm
+I need a few drinks just to sleep after study marathons.,negative-high-risk,substance abuse
+"Even though I study hard, the results don??t show. It??s just too much.",negative-no-risk,sadness
+"Sometimes, michael complimented our work??it felt great!",positive,joy
+"Honestly, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Honestly, i've been drinking more often to calm down after assignments.",negative-high-risk,substance abuse
+"Sometimes, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+Group work has made me feel more alone than ever.,negative-no-risk,loneliness
+There's too much to study and too little time.,negative-no-risk,stress
+"Honestly, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+I haven??t slept properly in days because of the GenAI project.,negative-no-risk,stress
+I punish myself with food when grades are bad. It??s just too much.,negative-high-risk,eating disorder
+"Honestly, even though i study hard, the results don??t show.",negative-no-risk,sadness
+"Honestly, i finally understood how transformer models work!",positive,joy
+"Sometimes, balancing coursework and job applications is exhausting.",negative-no-risk,stress
+I finally understood how transformer models work!,positive,joy
+I finally understood how transformer models work! It??s just too much.,positive,joy
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+I love working on these AI assignments when it clicks.,positive,joy
+Balancing coursework and job applications is exhausting. It??s just too much.,negative-no-risk,stress
+No one replied in our team chat and I feel left out. It??s just too much.,negative-no-risk,sadness
+I'm nervous I won't meet the expectations of the group.,negative-no-risk,anxiety
+Sometimes I take pills to focus better.,negative-high-risk,substance abuse
+"Honestly, i feel disconnected from my group lately.",negative-no-risk,sadness
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+"Sometimes, the thought of failing is always on my mind lately.",negative-no-risk,anxiety
+"Honestly, our team nailed the genai presentation today!",positive,joy
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+"Honestly, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+"Honestly, i skip meals during stressful weeks without noticing.",negative-high-risk,eating disorder
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+The pressure makes me want to do harmful things to myself. It??s just too much.,negative-high-risk,self-harm
+I punish myself with food when grades are bad.,negative-high-risk,eating disorder
+I haven??t slept properly in days because of the GenAI project. It??s just too much.,negative-no-risk,stress
+"Honestly, i finally understood how transformer models work!",positive,joy
+I binge at night and hate myself after.,negative-high-risk,eating disorder
+"Sometimes, i finally understood how transformer models work!",positive,joy
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+"Honestly, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+"Honestly, some days i can't focus because my mind replays the past.",negative-high-risk,PTSD
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+Sometimes I feel like ending it all would be easier. It??s just too much.,negative-high-risk,suicidal ideation
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+"Lately, I??ve been scratching myself until I bleed.",negative-high-risk,self-harm
+I don??t want to continue with this degree anymore. It??s just too much.,negative-high-risk,suicidal ideation
+"Sometimes, balancing coursework and job applications is exhausting.",negative-no-risk,stress
+"Honestly, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+I skip meals during stressful weeks without noticing.,negative-high-risk,eating disorder
+I feel like I??m not contributing enough to the team.,negative-no-risk,sadness
+I??m stressed about presenting in front of the class. It??s just too much.,negative-no-risk,stress
+I skip meals during stressful weeks without noticing.,negative-high-risk,eating disorder
+"Honestly, i feel disconnected from my group lately.",negative-no-risk,sadness
+"Honestly, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Sometimes, i'm overwhelmed by multiple deadlines this week.",negative-no-risk,stress
+I feel disconnected from my group lately.,negative-no-risk,sadness
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+I hurt myself when I feel like I??m failing. It??s just too much.,negative-high-risk,self-harm
+Sometimes I feel like ending it all would be easier. It??s just too much.,negative-high-risk,suicidal ideation
+"Honestly, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+"Sometimes, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+My body shuts down in stressful academic settings. It??s just too much.,negative-high-risk,PTSD
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+"Sometimes, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Honestly, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+Balancing coursework and job applications is exhausting. It??s just too much.,negative-no-risk,stress
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+"Sometimes, i finally understood how transformer models work!",positive,joy
+"Sometimes, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+I've been drinking more often to calm down after assignments. It??s just too much.,negative-high-risk,substance abuse
+"Sometimes, i finally understood how transformer models work!",positive,joy
+The pressure makes me want to do harmful things to myself. It??s just too much.,negative-high-risk,self-harm
+"Sometimes, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+I haven??t slept properly in days because of the GenAI project.,negative-no-risk,stress
+"Sometimes, sometimes i cut just to release the stress.",negative-high-risk,self-harm
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+"Sometimes, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+The fine-tuning part of the project makes me panic. It??s just too much.,negative-no-risk,anxiety
+"Sometimes, what if i completely mess up the assignment?",negative-no-risk,anxiety
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Honestly, i love working on these ai assignments when it clicks.",positive,joy
+"Honestly, when i feel stressed, i either starve or overeat.",negative-high-risk,eating disorder
+I don??t want to continue with this degree anymore. It??s just too much.,negative-high-risk,suicidal ideation
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+The thought of failing is always on my mind lately.,negative-no-risk,anxiety
+I finally understood how transformer models work!,positive,joy
+"Sometimes, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+I feel disconnected from my group lately. It??s just too much.,negative-no-risk,sadness
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+"Even though I study hard, the results don??t show.",negative-no-risk,sadness
+Everyone seems to be doing well except me. It??s just too much.,negative-no-risk,loneliness
+I study alone most of the time and it feels isolating. It??s just too much.,negative-no-risk,loneliness
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+"Sometimes, no one in the group checks on how i??m doing.",negative-no-risk,loneliness
+"Every time I open the assignment, I freeze. It??s just too much.",negative-no-risk,anxiety
+I hurt myself when I feel like I??m failing.,negative-high-risk,self-harm
+I love working on these AI assignments when it clicks.,positive,joy
+I'm nervous I won't meet the expectations of the group. It??s just too much.,negative-no-risk,anxiety
+"Honestly, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+"Sometimes, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Every time I open the assignment, I freeze.",negative-no-risk,anxiety
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+No one replied in our team chat and I feel left out. It??s just too much.,negative-no-risk,sadness
+I finally understood how transformer models work!,positive,joy
+"Sometimes, i finally understood how transformer models work!",positive,joy
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Sometimes, there's too much to study and too little time.",negative-no-risk,stress
+I haven??t really spoken to anyone all week.,negative-no-risk,loneliness
+I punish myself with food when grades are bad. It??s just too much.,negative-high-risk,eating disorder
+Balancing coursework and job applications is exhausting.,negative-no-risk,stress
+Failing this course makes me question everything.,negative-high-risk,suicidal ideation
+It feels like there??s no way out of this pressure. It??s just too much.,negative-high-risk,suicidal ideation
+I love working on these AI assignments when it clicks. It??s just too much.,positive,joy
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Honestly, i've been drinking more often to calm down after assignments.",negative-high-risk,substance abuse
+I finally understood how transformer models work!,positive,joy
+"Honestly, the thought of failing is always on my mind lately.",negative-no-risk,anxiety
+"Honestly, i finally understood how transformer models work!",positive,joy
+I love working on these AI assignments when it clicks.,positive,joy
+I punish myself with food when grades are bad.,negative-high-risk,eating disorder
+"Honestly, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+I love working on these AI assignments when it clicks.,positive,joy
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+I need a few drinks just to sleep after study marathons.,negative-high-risk,substance abuse
+Balancing coursework and job applications is exhausting.,negative-no-risk,stress
+"Sometimes, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+"Sometimes, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Honestly, ram's feedback made me feel proud of our progress.",positive,joy
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+I finally understood how transformer models work!,positive,joy
+Our team nailed the GenAI presentation today!,positive,joy
+I punish myself with food when grades are bad.,negative-high-risk,eating disorder
+The fine-tuning part of the project makes me panic. It??s just too much.,negative-no-risk,anxiety
+Our team nailed the GenAI presentation today! It??s just too much.,positive,joy
+"Sometimes, i feel disconnected from my group lately.",negative-no-risk,sadness
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+"Honestly, what if i completely mess up the assignment?",negative-no-risk,anxiety
+I'm nervous I won't meet the expectations of the group. It??s just too much.,negative-no-risk,anxiety
+"Even though I study hard, the results don??t show.",negative-no-risk,sadness
+Loud classroom discussions make me freeze.,negative-high-risk,PTSD
+I feel disconnected from my group lately.,negative-no-risk,sadness
+What if I completely mess up the assignment?,negative-no-risk,anxiety
+"Sometimes, loud classroom discussions make me freeze.",negative-high-risk,PTSD
+My body shuts down in stressful academic settings. It??s just too much.,negative-high-risk,PTSD
+I feel disconnected from my group lately. It??s just too much.,negative-no-risk,sadness
+"Honestly, substances feel like the only way to switch my brain off.",negative-high-risk,substance abuse
+"Sometimes, i??ve had thoughts of not waking up tomorrow.",negative-high-risk,suicidal ideation
+"Honestly, food feels like something i need to control when life isn??t.",negative-high-risk,eating disorder
+"Every time I open the assignment, I freeze. It??s just too much.",negative-no-risk,anxiety
+Deadlines trigger flashbacks of earlier breakdowns. It??s just too much.,negative-high-risk,PTSD
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+I feel like I??m not contributing enough to the team. It??s just too much.,negative-no-risk,sadness
+"Honestly, i skip meals during stressful weeks without noticing.",negative-high-risk,eating disorder
+"Honestly, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+"Sometimes, i've been drinking more often to calm down after assignments.",negative-high-risk,substance abuse
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Sometimes, the thought of failing is always on my mind lately.",negative-no-risk,anxiety
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+"Honestly, what if i completely mess up the assignment?",negative-no-risk,anxiety
+"Honestly, balancing coursework and job applications is exhausting.",negative-no-risk,stress
+"Sometimes, i??ve been feeling low since i got a bad grade last week.",negative-no-risk,sadness
+My body shuts down in stressful academic settings. It??s just too much.,negative-high-risk,PTSD
+"When I feel stressed, I either starve or overeat.",negative-high-risk,eating disorder
+"Honestly, balancing coursework and job applications is exhausting.",negative-no-risk,stress
+"Honestly, everyone seems to be doing well except me.",negative-no-risk,loneliness
+I feel disconnected from my group lately. It??s just too much.,negative-no-risk,sadness
+"Sometimes, even though i study hard, the results don??t show.",negative-no-risk,sadness
+I feel disconnected from my group lately. It??s just too much.,negative-no-risk,sadness
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+I??m stressed about presenting in front of the class. It??s just too much.,negative-no-risk,stress
+I skip meals during stressful weeks without noticing.,negative-high-risk,eating disorder
+My body shuts down in stressful academic settings.,negative-high-risk,PTSD
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Sometimes, every time i open the assignment, i freeze.",negative-no-risk,anxiety
+I hurt myself when I feel like I??m failing. It??s just too much.,negative-high-risk,self-harm
+"Sometimes, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Honestly, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+Deadlines trigger flashbacks of earlier breakdowns. It??s just too much.,negative-high-risk,PTSD
+"Sometimes, loud classroom discussions make me freeze.",negative-high-risk,PTSD
+"Honestly, everyone seems to be doing well except me.",negative-no-risk,loneliness
+"Sometimes, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+"Honestly, i study alone most of the time and it feels isolating.",negative-no-risk,loneliness
+"Sometimes, loud classroom discussions make me freeze.",negative-high-risk,PTSD
+Sometimes I feel like ending it all would be easier.,negative-high-risk,suicidal ideation
+"Honestly, i finally understood how transformer models work!",positive,joy
+"Sometimes, i feel like i??m not contributing enough to the team.",negative-no-risk,sadness
+"Honestly, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+"Sometimes, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+"Sometimes, i study alone most of the time and it feels isolating.",negative-no-risk,loneliness
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+There's too much to study and too little time. It??s just too much.,negative-no-risk,stress
+"Sometimes, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+"Honestly, i haven??t slept properly in days because of the genai project.",negative-no-risk,stress
+I've been drinking more often to calm down after assignments. It??s just too much.,negative-high-risk,substance abuse
+I finally understood how transformer models work!,positive,joy
+Deadlines trigger flashbacks of earlier breakdowns. It??s just too much.,negative-high-risk,PTSD
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Honestly, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+"Honestly, i feel like i??m not contributing enough to the team.",negative-no-risk,sadness
+"Honestly, i feel disconnected from my group lately.",negative-no-risk,sadness
+"Honestly, no one replied in our team chat and i feel left out.",negative-no-risk,sadness
+Some days I can't focus because my mind replays the past.,negative-high-risk,PTSD
+I feel disconnected from my group lately. It??s just too much.,negative-no-risk,sadness
+I've been drinking more often to calm down after assignments. It??s just too much.,negative-high-risk,substance abuse
+"Sometimes, i finally understood how transformer models work!",positive,joy
+"Honestly, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+"Every time I open the assignment, I freeze. It??s just too much.",negative-no-risk,anxiety
+I'm overwhelmed by multiple deadlines this week. It??s just too much.,negative-no-risk,stress
+Ram's feedback made me feel proud of our progress.,positive,joy
+"Honestly, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+"Honestly, i feel disconnected from my group lately.",negative-no-risk,sadness
+"Honestly, i binge at night and hate myself after.",negative-high-risk,eating disorder
+Sometimes I feel like ending it all would be easier.,negative-high-risk,suicidal ideation
+I skip meals during stressful weeks without noticing.,negative-high-risk,eating disorder
+"Sometimes, even though i study hard, the results don??t show.",negative-no-risk,sadness
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Sometimes, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+I'm nervous I won't meet the expectations of the group.,negative-no-risk,anxiety
+My body shuts down in stressful academic settings.,negative-high-risk,PTSD
+"Sometimes, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+"Sometimes, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Honestly, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+Loud classroom discussions make me freeze.,negative-high-risk,PTSD
+I??m stressed about presenting in front of the class. It??s just too much.,negative-no-risk,stress
+What if I completely mess up the assignment? It??s just too much.,negative-no-risk,anxiety
+"Sometimes, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+I've been drinking more often to calm down after assignments.,negative-high-risk,substance abuse
+"Sometimes, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+I've been drinking more often to calm down after assignments. It??s just too much.,negative-high-risk,substance abuse
+I'm nervous I won't meet the expectations of the group. It??s just too much.,negative-no-risk,anxiety
+I??ve been feeling low since I got a bad grade last week. It??s just too much.,negative-no-risk,sadness
+Group work has made me feel more alone than ever. It??s just too much.,negative-no-risk,loneliness
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+"Honestly, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Honestly, loud classroom discussions make me freeze.",negative-high-risk,PTSD
+"Sometimes, loud classroom discussions make me freeze.",negative-high-risk,PTSD
+"Sometimes, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+It feels like there??s no way out of this pressure. It??s just too much.,negative-high-risk,suicidal ideation
+"Every time I open the assignment, I freeze. It??s just too much.",negative-no-risk,anxiety
+"Honestly, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Honestly, group work has made me feel more alone than ever.",negative-no-risk,loneliness
+I've been drinking more often to calm down after assignments. It??s just too much.,negative-high-risk,substance abuse
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+"Honestly, the fine-tuning part of the project makes me panic.",negative-no-risk,anxiety
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+Sometimes I feel like ending it all would be easier. It??s just too much.,negative-high-risk,suicidal ideation
+"Honestly, i've been drinking more often to calm down after assignments.",negative-high-risk,substance abuse
+"Sometimes, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Honestly, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+"Sometimes, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Sometimes, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+"Honestly, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+I feel disconnected from my group lately. It??s just too much.,negative-no-risk,sadness
+"Honestly, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Sometimes, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+Sometimes I cut just to release the stress. It??s just too much.,negative-high-risk,self-harm
+"Sometimes, i feel disconnected from my group lately.",negative-no-risk,sadness
+"Every time I open the assignment, I freeze. It??s just too much.",negative-no-risk,anxiety
+"Honestly, even though i study hard, the results don??t show.",negative-no-risk,sadness
+I don??t want to continue with this degree anymore.,negative-high-risk,suicidal ideation
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+"Every time I open the assignment, I freeze.",negative-no-risk,anxiety
+"Sometimes, what if i completely mess up the assignment?",negative-no-risk,anxiety
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+I haven??t really spoken to anyone all week.,negative-no-risk,loneliness
+"Honestly, sometimes i take pills to focus better.",negative-high-risk,substance abuse
+Deadlines trigger flashbacks of earlier breakdowns. It??s just too much.,negative-high-risk,PTSD
+"Every time I open the assignment, I freeze. It??s just too much.",negative-no-risk,anxiety
+Sometimes I feel like ending it all would be easier. It??s just too much.,negative-high-risk,suicidal ideation
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+The thought of failing is always on my mind lately. It??s just too much.,negative-no-risk,anxiety
+"Sometimes, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+I hurt myself when I feel like I??m failing. It??s just too much.,negative-high-risk,self-harm
+"Sometimes, every time i open the assignment, i freeze.",negative-no-risk,anxiety
+"When I feel stressed, I either starve or overeat.",negative-high-risk,eating disorder
+I finally understood how transformer models work! It??s just too much.,positive,joy
+"Sometimes, i skip meals during stressful weeks without noticing.",negative-high-risk,eating disorder
+I??m stressed about presenting in front of the class. It??s just too much.,negative-no-risk,stress
+"Sometimes, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+"Sometimes, everyone seems to be doing well except me.",negative-no-risk,loneliness
+"Sometimes, i feel disconnected from my group lately.",negative-no-risk,sadness
+Loud classroom discussions make me freeze. It??s just too much.,negative-high-risk,PTSD
+"Sometimes, no one replied in our team chat and i feel left out.",negative-no-risk,sadness
+I finally understood how transformer models work!,positive,joy
+"Sometimes, i love working on these ai assignments when it clicks.",positive,joy
+"Sometimes, i love working on these ai assignments when it clicks.",positive,joy
+"Sometimes, i??ve been feeling low since i got a bad grade last week.",negative-no-risk,sadness
+"Honestly, every time i open the assignment, i freeze.",negative-no-risk,anxiety
+Deadlines trigger flashbacks of earlier breakdowns.,negative-high-risk,PTSD
+"Honestly, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+There's too much to study and too little time. It??s just too much.,negative-no-risk,stress
+I haven??t slept properly in days because of the GenAI project. It??s just too much.,negative-no-risk,stress
+"Honestly, everyone seems to be doing well except me.",negative-no-risk,loneliness
+I punish myself with food when grades are bad.,negative-high-risk,eating disorder
+Deadlines trigger flashbacks of earlier breakdowns.,negative-high-risk,PTSD
+"Even though I study hard, the results don??t show. It??s just too much.",negative-no-risk,sadness
+I love working on these AI assignments when it clicks. It??s just too much.,positive,joy
+I punish myself with food when grades are bad.,negative-high-risk,eating disorder
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+"Honestly, group work has made me feel more alone than ever.",negative-no-risk,loneliness
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Honestly, i??ve had thoughts of not waking up tomorrow.",negative-high-risk,suicidal ideation
+"Sometimes, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, ram's feedback made me feel proud of our progress.",positive,joy
+I don??t want to continue with this degree anymore. It??s just too much.,negative-high-risk,suicidal ideation
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+What if I completely mess up the assignment?,negative-no-risk,anxiety
+I study alone most of the time and it feels isolating. It??s just too much.,negative-no-risk,loneliness
+I need a few drinks just to sleep after study marathons.,negative-high-risk,substance abuse
+"Sometimes, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+No one replied in our team chat and I feel left out. It??s just too much.,negative-no-risk,sadness
+Balancing coursework and job applications is exhausting.,negative-no-risk,stress
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+Our team nailed the GenAI presentation today!,positive,joy
+"Sometimes, ram's feedback made me feel proud of our progress.",positive,joy
+"Sometimes, i??ve had thoughts of not waking up tomorrow.",negative-high-risk,suicidal ideation
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+"Sometimes, everyone seems to be doing well except me.",negative-no-risk,loneliness
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Honestly, i finally understood how transformer models work!",positive,joy
+I've been drinking more often to calm down after assignments.,negative-high-risk,substance abuse
+I study alone most of the time and it feels isolating.,negative-no-risk,loneliness
+"Sometimes, it feels like there??s no way out of this pressure.",negative-high-risk,suicidal ideation
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Even though I study hard, the results don??t show. It??s just too much.",negative-no-risk,sadness
+I need a few drinks just to sleep after study marathons.,negative-high-risk,substance abuse
+"Sometimes, every time i open the assignment, i freeze.",negative-no-risk,anxiety
+"Sometimes, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+"Sometimes, what if i completely mess up the assignment?",negative-no-risk,anxiety
+"Sometimes, the thought of failing is always on my mind lately.",negative-no-risk,anxiety
+"Honestly, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+"Sometimes, i finally understood how transformer models work!",positive,joy
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+"Sometimes, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+I hurt myself when I feel like I??m failing.,negative-high-risk,self-harm
+I finally understood how transformer models work! It??s just too much.,positive,joy
+"Sometimes, even though i study hard, the results don??t show.",negative-no-risk,sadness
+"Honestly, i finally understood how transformer models work!",positive,joy
+"Honestly, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+"When I feel stressed, I either starve or overeat.",negative-high-risk,eating disorder
+"Sometimes, caffeine and alcohol are my only coping tools lately.",negative-high-risk,substance abuse
+I haven??t really spoken to anyone all week.,negative-no-risk,loneliness
+I don??t want to continue with this degree anymore.,negative-high-risk,suicidal ideation
+I've been drinking more often to calm down after assignments.,negative-high-risk,substance abuse
+I need a few drinks just to sleep after study marathons.,negative-high-risk,substance abuse
+The pressure makes me want to do harmful things to myself. It??s just too much.,negative-high-risk,self-harm
+Group work has made me feel more alone than ever. It??s just too much.,negative-no-risk,loneliness
+"Sometimes, everyone seems to be doing well except me.",negative-no-risk,loneliness
+"Honestly, everyone seems to be doing well except me.",negative-no-risk,loneliness
+"Sometimes, it feels like there??s no way out of this pressure.",negative-high-risk,suicidal ideation
+"Sometimes, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+"Sometimes, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Honestly, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+"Honestly, i binge at night and hate myself after.",negative-high-risk,eating disorder
+"Sometimes, physical pain feels like a distraction from mental stress.",negative-high-risk,self-harm
+Presenting last year triggered memories of my past trauma.,negative-high-risk,PTSD
+I don??t want to continue with this degree anymore.,negative-high-risk,suicidal ideation
+"Honestly, i study alone most of the time and it feels isolating.",negative-no-risk,loneliness
+"Even though I study hard, the results don??t show.",negative-no-risk,sadness
+Our team nailed the GenAI presentation today! It??s just too much.,positive,joy
+I haven??t really spoken to anyone all week. It??s just too much.,negative-no-risk,loneliness
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+"Sometimes, i??ve been feeling low since i got a bad grade last week.",negative-no-risk,sadness
+"Sometimes, physical pain feels like a distraction from mental stress.",negative-high-risk,self-harm
+"Sometimes, i??ve had thoughts of not waking up tomorrow.",negative-high-risk,suicidal ideation
+I'm nervous I won't meet the expectations of the group. It??s just too much.,negative-no-risk,anxiety
+"Sometimes, balancing coursework and job applications is exhausting.",negative-no-risk,stress
+Deadlines trigger flashbacks of earlier breakdowns.,negative-high-risk,PTSD
+Our team nailed the GenAI presentation today!,positive,joy
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+"Honestly, i punish myself with food when grades are bad.",negative-high-risk,eating disorder
+"Honestly, ram's feedback made me feel proud of our progress.",positive,joy
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, i'm overwhelmed by multiple deadlines this week.",negative-no-risk,stress
+I haven??t really spoken to anyone all week.,negative-no-risk,loneliness
+"Honestly, i finally understood how transformer models work!",positive,joy
+I don??t want to continue with this degree anymore. It??s just too much.,negative-high-risk,suicidal ideation
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Sometimes, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+"Sometimes, sometimes i cut just to release the stress.",negative-high-risk,self-harm
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+There's too much to study and too little time. It??s just too much.,negative-no-risk,stress
+"Honestly, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+Sometimes I feel like ending it all would be easier. It??s just too much.,negative-high-risk,suicidal ideation
+"Honestly, i study alone most of the time and it feels isolating.",negative-no-risk,loneliness
+"Honestly, i finally understood how transformer models work!",positive,joy
+"Honestly, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+Deadlines trigger flashbacks of earlier breakdowns.,negative-high-risk,PTSD
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+No one replied in our team chat and I feel left out.,negative-no-risk,sadness
+"Honestly, sometimes i cut just to release the stress.",negative-high-risk,self-harm
+"Sometimes, i skip meals during stressful weeks without noticing.",negative-high-risk,eating disorder
+"Sometimes, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+"Honestly, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+"Honestly, when i feel stressed, i either starve or overeat.",negative-high-risk,eating disorder
+"Honestly, i hurt myself when i feel like i??m failing.",negative-high-risk,self-harm
+Group work has made me feel more alone than ever. It??s just too much.,negative-no-risk,loneliness
+I??m stressed about presenting in front of the class.,negative-no-risk,stress
+"Honestly, my body shuts down in stressful academic settings.",negative-high-risk,PTSD
+I'm overwhelmed by multiple deadlines this week. It??s just too much.,negative-no-risk,stress
+"When I feel stressed, I either starve or overeat. It??s just too much.",negative-high-risk,eating disorder
+"Even though I study hard, the results don??t show.",negative-no-risk,sadness
+I need a few drinks just to sleep after study marathons. It??s just too much.,negative-high-risk,substance abuse
+"Sometimes, i??ve been feeling low since i got a bad grade last week.",negative-no-risk,sadness
+I punish myself with food when grades are bad. It??s just too much.,negative-high-risk,eating disorder
+"Honestly, even though i study hard, the results don??t show.",negative-no-risk,sadness
+No one replied in our team chat and I feel left out. It??s just too much.,negative-no-risk,sadness
+"Sometimes, there's too much to study and too little time.",negative-no-risk,stress
+Ram's feedback made me feel proud of our progress.,positive,joy
+The pressure makes me want to do harmful things to myself.,negative-high-risk,self-harm
+"Honestly, i haven??t really spoken to anyone all week.",negative-no-risk,loneliness
+"Honestly, it feels like there??s no way out of this pressure.",negative-high-risk,suicidal ideation
+"Sometimes, i finally understood how transformer models work!",positive,joy
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Honestly, i skip meals during stressful weeks without noticing.",negative-high-risk,eating disorder
+"Sometimes, no one replied in our team chat and i feel left out.",negative-no-risk,sadness
+"Honestly, i don??t want to continue with this degree anymore.",negative-high-risk,suicidal ideation
+"Honestly, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+"Honestly, i feel like i??m not contributing enough to the team.",negative-no-risk,sadness
+Some days I can't focus because my mind replays the past. It??s just too much.,negative-high-risk,PTSD
+"Honestly, it feels like there??s no way out of this pressure.",negative-high-risk,suicidal ideation
+"Sometimes, i need a few drinks just to sleep after study marathons.",negative-high-risk,substance abuse
+I hurt myself when I feel like I??m failing.,negative-high-risk,self-harm
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+The pressure makes me want to do harmful things to myself. It??s just too much.,negative-high-risk,self-harm
+What if I completely mess up the assignment? It??s just too much.,negative-no-risk,anxiety
+"Honestly, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+No one replied in our team chat and I feel left out.,negative-no-risk,sadness
+"Sometimes, deadlines trigger flashbacks of earlier breakdowns.",negative-high-risk,PTSD
+"Honestly, i??m stressed about presenting in front of the class.",negative-no-risk,stress
+Deadlines trigger flashbacks of earlier breakdowns.,negative-high-risk,PTSD
+"Sometimes, there's too much to study and too little time.",negative-no-risk,stress
+"When I feel stressed, I either starve or overeat.",negative-high-risk,eating disorder
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Sometimes, i study alone most of the time and it feels isolating.",negative-no-risk,loneliness
+"Honestly, i binge at night and hate myself after.",negative-high-risk,eating disorder
+"Sometimes, i'm nervous i won't meet the expectations of the group.",negative-no-risk,anxiety
+I binge at night and hate myself after. It??s just too much.,negative-high-risk,eating disorder
+I love working on these AI assignments when it clicks.,positive,joy
+"Sometimes, i feel disconnected from my group lately.",negative-no-risk,sadness
+I haven??t slept properly in days because of the GenAI project.,negative-no-risk,stress
+"Sometimes, every time i open the assignment, i freeze.",negative-no-risk,anxiety
+"Honestly, sometimes i feel like ending it all would be easier.",negative-high-risk,suicidal ideation
+"Sometimes, the pressure makes me want to do harmful things to myself.",negative-high-risk,self-harm
+"Honestly, i've been drinking more often to calm down after assignments.",negative-high-risk,substance abuse
+I'm nervous I won't meet the expectations of the group.,negative-no-risk,anxiety
